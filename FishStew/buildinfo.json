@@ -1,0 +1,9 @@
+{
+    "Name": "Fish Stew",
+    "Author": "Duck",
+    "Version": "1.0",
+    "Requires": [
+        "AHandyToolbox"
+    ],
+    "RequiresDLC": true
+}
