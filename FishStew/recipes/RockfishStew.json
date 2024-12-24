@@ -8,7 +8,7 @@
         "Name"                  : "Rockfish Stew",
         "RequiredGear"          : [
             {
-                "Item"          : "GEAR_Rockfish",
+                "Item"          : "GEAR_RawRockfish",
                 "Quantity"      : 0.50,
                 "Units"         : "Kilograms"
             }
